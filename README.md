@@ -5,7 +5,7 @@ Description:
 Flight to Satisfaction: Unveiling Insights through
 Machine Learning in Airline Passenger Services
 
-: Predicting Airline Passenger Satisfaction
+Predicting Airline Passenger Satisfaction
 with High Accuracy a critical benchmark for any airline, directly
 impacting loyalty, brand perception, and ultimately, profitability.
 Accurately predicting satisfaction levels allows airlines to tailor
